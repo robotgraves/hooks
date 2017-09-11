@@ -1,4 +1,4 @@
-FROM robotgraves/virtualpython
+FROM robotgraves/flycli-python
 MAINTAINER apaul@transparent.com
 
 RUN apt-get install -y bzip2 \
